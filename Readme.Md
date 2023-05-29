@@ -1,4 +1,3 @@
-```
 # Verificador de Link em Docker
 
 Este repositório contém um exemplo de aplicativo Python que verifica a validade de um link utilizando um ambiente Docker. O aplicativo utiliza a biblioteca requests para realizar a verificação.
