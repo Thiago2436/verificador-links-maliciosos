@@ -49,7 +49,7 @@ Certifique-se também de que o ambiente Docker tenha acesso à Internet para faz
 
 Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests ou abrir issues para discutir possíveis melhorias.
 
-## Licença
+## Licença-MIT
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
 ```
