@@ -1,14 +1,14 @@
 # Verificador de Link em Docker
 
-Este repositório contém um exemplo de aplicativo Python que verifica a validade de um link utilizando um ambiente Docker. O aplicativo utiliza a biblioteca requests para realizar a verificação.
+> Este repositório contém um exemplo de aplicativo Python que verifica a validade de um link utilizando um ambiente Docker. O aplicativo utiliza a biblioteca requests para realizar a verificação.
 
 ## Pré-requisitos
 
-Certifique-se de ter o Docker instalado em seu sistema e um ambiente Docker configurado e funcionando corretamente.
+> Certifique-se de ter o Docker instalado em seu sistema e um ambiente Docker configurado e funcionando corretamente.
 
 ## Instruções
 
-Siga as etapas abaixo para construir e executar o contêiner Docker:
+> Siga as etapas abaixo para construir e executar o contêiner Docker:
 
 1. Clone este repositório em seu sistema:
 
