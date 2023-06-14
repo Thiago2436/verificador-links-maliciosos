@@ -35,9 +35,9 @@ cd /app
 python3 verificar_link.py
 
 ```
-O script será executado e solicitará ao usuário que digite o link que deseja investigar. Após inserir o link, o script fará a verificação da mesma maneira que antes, exibindo uma mensagem indicando se o link é válido e acessível ou se retornou um código de status diferente de 200.
+> O script será executado e solicitará ao usuário que digite o link que deseja investigar. Após inserir o link, o script fará a verificação da mesma maneira que antes, exibindo uma mensagem indicando se o link é válido e acessível ou se retornou um código de status diferente de 200.
 
-Lembre-se de substituir <nome_do_container> pelo nome ou ID do seu contêiner Docker.
+> ### Lembre-se de substituir <nome_do_container> pelo nome ou ID do seu contêiner Docker. ### !!!
 
 Essas etapas permitirão que você execute o script modificado no console do contêiner Docker e verifique o link desejado. Certifique-se de que o contêiner tenha acesso à Internet para realizar a verificação corretamente.
 
@@ -47,7 +47,7 @@ Certifique-se também de que o ambiente Docker tenha acesso à Internet para faz
 
 ## Contribuição
 
-Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests ou abrir issues para discutir possíveis melhorias.
+> Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests ou abrir issues para discutir possíveis melhorias.
 
 ## Licença-MIT
 
